@@ -1,0 +1,11 @@
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\bin\Release\netcoreapp3.1\Cherry.Domain.deps.json
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\bin\Release\netcoreapp3.1\Cherry.Domain.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\bin\Release\netcoreapp3.1\Cherry.Domain.pdb
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\bin\Release\netcoreapp3.1\Hulk.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\bin\Release\netcoreapp3.1\Hulk.pdb
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\obj\Release\netcoreapp3.1\Cherry.Domain.csprojAssemblyReference.cache
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\obj\Release\netcoreapp3.1\Cherry.Domain.AssemblyInfoInputs.cache
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\obj\Release\netcoreapp3.1\Cherry.Domain.AssemblyInfo.cs
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\obj\Release\netcoreapp3.1\Cherry.Domain.csproj.CopyComplete
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\obj\Release\netcoreapp3.1\Cherry.Domain.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Domain\obj\Release\netcoreapp3.1\Cherry.Domain.pdb

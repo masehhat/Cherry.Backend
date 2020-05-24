@@ -1,0 +1,15 @@
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Infrastructure.deps.json
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Infrastructure.runtimeconfig.json
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Infrastructure.runtimeconfig.dev.json
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Infrastructure.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Infrastructure.pdb
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Domain.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Hulk.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Cherry.Domain.pdb
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\bin\Release\netcoreapp3.1\Hulk.pdb
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\obj\Release\netcoreapp3.1\Cherry.Infrastructure.csprojAssemblyReference.cache
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\obj\Release\netcoreapp3.1\Cherry.Infrastructure.AssemblyInfoInputs.cache
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\obj\Release\netcoreapp3.1\Cherry.Infrastructure.AssemblyInfo.cs
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\obj\Release\netcoreapp3.1\Cherry.Infrastructure.csproj.CopyComplete
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\obj\Release\netcoreapp3.1\Cherry.Infrastructure.dll
+D:\IPEProjects\Cherry.Backend\src\Cherry.Infrastructure\obj\Release\netcoreapp3.1\Cherry.Infrastructure.pdb

@@ -1,0 +1,14 @@
+D:\IPEProjects\Cherry.Backend\Hulk\bin\Debug\netcoreapp3.1\Hulk.deps.json
+D:\IPEProjects\Cherry.Backend\Hulk\bin\Debug\netcoreapp3.1\Hulk.dll
+D:\IPEProjects\Cherry.Backend\Hulk\bin\Debug\netcoreapp3.1\Hulk.pdb
+D:\IPEProjects\Cherry.Backend\Hulk\obj\Debug\netcoreapp3.1\Hulk.AssemblyInfoInputs.cache
+D:\IPEProjects\Cherry.Backend\Hulk\obj\Debug\netcoreapp3.1\Hulk.AssemblyInfo.cs
+D:\IPEProjects\Cherry.Backend\Hulk\obj\Debug\netcoreapp3.1\Hulk.dll
+D:\IPEProjects\Cherry.Backend\Hulk\obj\Debug\netcoreapp3.1\Hulk.pdb
+D:\IPEProjects\Cherry.Backend\src\Hulk\bin\Debug\netcoreapp3.1\Hulk.deps.json
+D:\IPEProjects\Cherry.Backend\src\Hulk\bin\Debug\netcoreapp3.1\Hulk.dll
+D:\IPEProjects\Cherry.Backend\src\Hulk\bin\Debug\netcoreapp3.1\Hulk.pdb
+D:\IPEProjects\Cherry.Backend\src\Hulk\obj\Debug\netcoreapp3.1\Hulk.AssemblyInfoInputs.cache
+D:\IPEProjects\Cherry.Backend\src\Hulk\obj\Debug\netcoreapp3.1\Hulk.AssemblyInfo.cs
+D:\IPEProjects\Cherry.Backend\src\Hulk\obj\Debug\netcoreapp3.1\Hulk.dll
+D:\IPEProjects\Cherry.Backend\src\Hulk\obj\Debug\netcoreapp3.1\Hulk.pdb
